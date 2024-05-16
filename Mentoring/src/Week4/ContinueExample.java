@@ -9,6 +9,5 @@ public class ContinueExample {
             }
             System.out.println(i);
         }
-
     }
 }
